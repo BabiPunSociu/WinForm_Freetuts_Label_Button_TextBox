@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\bin\Debug\CoBan_Label_Button_Textbox.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\bin\Debug\CoBan_Label_Button_Textbox.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\bin\Debug\CoBan_Label_Button_Textbox.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_Label_Button_Textbox\CoBan_Label_Button_Textbox\obj\Debug\CoBan_Label_Button_Textbox.pdb
